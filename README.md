@@ -15,7 +15,3 @@ I'm Sukrit from India and I am into frontend web development. I'm in awe of how 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sukrittt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sukrittt&hide=contribs,prs)
-
-## Hobbies
-* ⚽
-* 📖
