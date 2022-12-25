@@ -6,7 +6,7 @@ I'm Sukrit from India and I am into frontend web development. I'm in awe of how 
 * 💻 HTML, CSS, SASS, JS, GSAP 
 * 🌱 I’m currently learning React.js and GSAP 
 
-## Social
+## Socials
 - ✉️ sukritsaha27@gmail.com
 - 📞 +91 8240849936
 
