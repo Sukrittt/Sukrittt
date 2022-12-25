@@ -1,4 +1,4 @@
-### Hi there 👋, Sukrit Saha
+### Hi there 👋, I'm Sukrit Saha
 #### Frontend Web Development
 
 I'm Sukrit from India and I am into frontend web development. I'm in awe of how smoothly animations and transitions are used on the web. Really eager to learn more about animation libraries and use them. I also enjoy learning React.js and designing websites using FIGMA.
