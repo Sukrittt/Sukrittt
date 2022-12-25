@@ -4,6 +4,7 @@ I'm Sukrit from India and I am into frontend web development. I'm in awe of how 
 ## Skills and Experience
 * ⚛️ React
 * 💻 HTML, CSS, SASS, JS, GSAP 
+* 🖌️ FIGMA
 * 🌱 I’m currently learning React.js and GSAP 
 
 ## Socials
