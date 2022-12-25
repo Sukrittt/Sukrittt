@@ -1,6 +1,5 @@
 # Sukrit Saha
 I'm Sukrit from India and I am into frontend web development. I'm in awe of how smoothly animations and transitions are used on the web. Really eager to learn more about animation libraries and use them. I also enjoy learning React.js and designing websites using FIGMA.
-<img align="right" alt="coding-gif" width="400" src="https://cdn.dribbble.com/users/3375/screenshots/2550813/cody-trailer_gif.gif" />
 
 ## Skills and Experience
 * ⚛️ React
