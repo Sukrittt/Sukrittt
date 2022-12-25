@@ -1,7 +1,15 @@
-### Hi there 👋
+### Hi there 👋, Sukrit Saha
+#### Frontend Web Development
+![Frontend Web Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I'm Sukrit from India and I am into frontend web development. I'm in awe of how smoothly animations and transitions are used on the web. Really eager to learn more about animation libraries and use them. I also enjoy learning React.js and designing websites using FIGMA.
 
-Learning React.js and GSAP at the moment.
+Skills: REACT / JS / GSAP / HTML / CSS / SASS / Bootstrap
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sukrittt)](https://github.com/anuraghazra/github-readme-stats)
+- 🌱 I’m currently learning React.js and GSAP 
+- 📫 How to reach me: sukritsaha27@gmail.com 
+- 😄 Pronouns: He/him 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Sukrittt)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sukrit-saha-b6117a242//)  
+
