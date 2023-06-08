@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey I'm Sukrit, a frontend web developer from India. I'm in awe of how smoothly animations and transitions are used on the web. Really eager to learn more about 3D animations. I am currently learning Next.js and Three.js.
+Hey I'm Sukrit, a frontend web developer from India. I'm in awe of how smoothly animations and transitions are used on the web. Really eager to learn more about 3D animations. I am currently learning Next.js.
 
 
 ## 🌐 Socials:
