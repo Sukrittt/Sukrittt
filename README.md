@@ -11,7 +11,6 @@ Hey there, I'm Sukrit, a frontend web developer from India. I'm passionate about
 
 ![](https://github-readme-stats-seven-rho-50.vercel.app/api/top-langs/?username=Sukrittt&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
 [![](https://visitcount.itsvg.in/api?id=Sukrittt&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
