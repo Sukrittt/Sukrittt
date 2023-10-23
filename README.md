@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hey there, I'm Sukrit, a frontend web developer from India. I'm passionate about creating captivating user experiences through seamless animations and transitions. Lately, I've been diving into the world of full-stack development, focusing on the T3 stack. I'm driven to expand my skills and bring innovative solutions to the web development landscape. Exciting times ahead!
-
+Hello, I'm Sukrit, a frontend web developer from India with a newfound passion for app development. I'm dedicated to crafting captivating user experiences through seamless animations and transitions on the web. What's exciting these days is my desire to extend my skills into the world of mobile app development. My goal? To create mobile counterparts for all the web apps I've built. I've recently started learning React Native.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sukrit-saha-b6117a242) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sukrit_04) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/SukritSaha11) 
