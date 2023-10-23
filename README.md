@@ -3,7 +3,7 @@ Hello, I'm Sukrit, a frontend web developer from India with a newfound passion f
 
 What's exciting these days is my desire to extend my skills into the world of mobile app development. I've recently started learning React Native. Exiting times ahead
 
-My goal? To create an application used by millions of people.
+My goal? To build an application used by millions of people.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sukrit-saha-b6117a242) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sukrit_04) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/SukritSaha11) 
