@@ -1,7 +1,7 @@
 # 💫 About Me:
-Hello, I'm Sukrit, a frontend engineer from India with a strong focus on web application development. I'm also venturing into the exciting field of mobile app development, aiming to create seamless and engaging user experiences through animations and transitions.
+Hello, I'm Sukrit, a frontend engineer from India with a strong focus on web application development. I have a keen eye for identifying problems that can be effectively solved through web applications. 
 
-What's exciting these days is my desire to extend my skills further into this field. I've recently started learning React Native. Exciting times ahead.
+Diving deeper into web technologies, exploring innovative solutions to build scalable, powerful and high-performance applications. 
 
 My goal? To build an application used by millions of people.
 
