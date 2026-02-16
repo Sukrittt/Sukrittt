@@ -1,9 +1,11 @@
 # 💫 About Me:
-Hello, I'm Sukrit, a frontend engineer from India with a strong focus on web application development. I have a keen eye for identifying problems that can be effectively solved through web applications. 
+Sukrit | Systems-Focused Product Engineer
 
-Diving deeper into web technologies, exploring innovative solutions to build scalable, powerful and high-performance applications. 
+Engineer with a product mindset, building scalable web systems backed by strong architectural thinking.
 
-My goal? To build an application used by millions of people.
+Currently deepening my understanding of distributed systems, data infrastructure, and system design to build software that is not just functional, but resilient, scalable, and thoughtfully engineered.
+
+Experienced in microservices-based architectures and performance-focused web applications.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sukrit-saha-b6117a242) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sukrit_04) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/SukritSaha11) 
