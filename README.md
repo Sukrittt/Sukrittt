@@ -1,11 +1,11 @@
 # 💫 About Me:
-Sukrit | Systems-Focused Product Engineer
+Software engineer with a product mindset, building scalable systems backed by strong architectural thinking. Experienced in microservices-based architectures, performance-focused web applications, and full-stack development across modern stacks like Next.js, NestJS, and tRPC.
 
-Engineer with a product mindset, building scalable web systems backed by strong architectural thinking.
+Beyond traditional web systems, I've been building with AI tools and frameworks, working with Claude Code, Codex, and other LLM APIs, and exploring agentic workflows including multi-agent orchestration, parallel task execution, and tool-use pipelines. Deeply interested in the intersection of robust backend systems and intelligent automation.
 
-Currently deepening my understanding of distributed systems, data infrastructure, and system design to build software that is not just functional, but resilient, scalable, and thoughtfully engineered.
+Currently deepening my understanding of distributed systems, system design, and data infrastructure, learning how large-scale systems are architected to be resilient, fault-tolerant, and built to last.
 
-Experienced in microservices-based architectures and performance-focused web applications.
+Long-term goal: Design and build systems used by millions, intelligent, scalable, and built right from the inside out.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sukrit-saha-b6117a242) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sukrit_04) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/SukritSaha11) 
