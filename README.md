@@ -2,17 +2,7 @@
 
 **Full-stack engineer with a product mindset, building AI-native workflows that solve real team problems.**
 
-I work across frontend, backend, and orchestration layers to ship features people actually use — especially where LLMs, voice UX, and automation can reduce friction in day-to-day operations.
-
----
-
-## What I’m Building Right Now
-
-- **Agentic voice-control experience** for product workflows (11Labs-style conversational UX + action orchestration)
-- **Practical AI operator patterns** that go beyond demos: reliable execution loops, guardrails, and usable outputs
-- **Internal tooling that speeds up decisions**, not just another dashboard
-
-> Current focus: turning AI features into product outcomes teams can trust.
+I work across frontend, backend, and orchestration layers to ship practical AI systems that people actually use — and occasionally over-optimize workflows for fun.
 
 ---
 
@@ -24,28 +14,6 @@ I work across frontend, backend, and orchestration layers to ship features peopl
 4. **Ship, measure, and iterate** based on actual usage
 
 I care less about hype and more about: *Did this save time, improve quality, or unlock a new capability for users?*
-
----
-
-## Selected Builds
-
-### 1) Voice Agent Control Concept *(In Progress)*
-- **Problem:** Product interactions are still too click-heavy for repetitive operations.
-- **Approach:** Natural-language voice interface connected to action handlers and backend workflows.
-- **Outcome target:** Faster task completion + better UX for high-frequency actions.
-- **Repo / Demo:** `[Add GitHub repo link]` · `[Add demo/video link]`
-
-### 2) AI Workflow Automation Experiment
-- **Problem:** Teams lose time in context-switching and manual follow-ups.
-- **Approach:** Agentic loop for intake → reasoning → action suggestion / execution.
-- **Outcome target:** Reduced manual steps and tighter execution cycles.
-- **Repo / Notes:** `[Add repo link]` · `[Add write-up link]`
-
-### 3) Full-Stack Product Feature Delivery
-- **Problem:** Need end-to-end ownership from UI to backend logic.
-- **Approach:** Build and ship across frontend systems, API contracts, data flow, and QA.
-- **Outcome target:** Faster releases with fewer handoff bottlenecks.
-- **Project reference:** `[Add project/case-study link]`
 
 ---
 
