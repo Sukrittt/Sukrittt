@@ -41,7 +41,7 @@ I prefer capability-based systems over stack flexing — the goal is reliable, u
 
 I’m moving deeper into:
 - agentic product architecture
-- voice-first interaction design for real workflows
+- system design learning for real-world product workflows
 - AI-assisted engineering systems that improve team velocity
 
 If you’re building in this space, I’m always open to exchanging ideas and implementation patterns.
@@ -50,10 +50,10 @@ If you’re building in this space, I’m always open to exchanging ideas and im
 
 ## Let’s Connect
 
-- LinkedIn: `[Add LinkedIn URL]`
-- X / Twitter: `[Add X URL]`
-- Portfolio / Website: `[Add website URL]`
-- Email: `[Add preferred email]`
+- LinkedIn: `https://linkedin.com/in/sukrit-saha-b6117a242`
+- X / Twitter: `https://x.com/SukritSaha11`
+- Portfolio / Website: `https://sukritsaha.in`
+- Email: `sukritsaha27@gmail.com`
 
 ---
 
