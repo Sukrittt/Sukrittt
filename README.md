@@ -50,10 +50,10 @@ If you’re building in this space, I’m always open to exchanging ideas and im
 
 ## Let’s Connect
 
-- LinkedIn: `https://linkedin.com/in/sukrit-saha-b6117a242`
-- X / Twitter: `https://x.com/SukritSaha11`
-- Portfolio / Website: `https://sukritsaha.in`
-- Email: `sukritsaha27@gmail.com`
+- LinkedIn: [linkedin.com/in/sukrit-saha-b6117a242](https://linkedin.com/in/sukrit-saha-b6117a242)
+- X / Twitter: [x.com/SukritSaha11](https://x.com/SukritSaha11)
+- Portfolio / Website: [sukritsaha.in](https://sukritsaha.in)
+- Email: [sukritsaha27@gmail.com](mailto:sukritsaha27@gmail.com)
 
 ---
 
