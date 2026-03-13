@@ -1,14 +1,99 @@
-# 💫 About Me:
-Software engineer with a product mindset, building scalable systems backed by strong architectural thinking. Experienced in microservices-based architectures, performance-focused web applications, and full-stack development across modern stacks like Next.js, NestJS, and tRPC.
+# Sukrit
 
-Beyond traditional web systems, I've been building with AI tools and frameworks, working with Claude Code, Codex, and other LLM APIs, and exploring agentic workflows including multi-agent orchestration, parallel task execution, and tool-use pipelines. Deeply interested in the intersection of robust backend systems and intelligent automation.
+**Full-stack engineer with a product mindset, building AI-native workflows that solve real team problems.**
 
-Currently deepening my understanding of distributed systems, system design, and data infrastructure, learning how large-scale systems are architected to be resilient, fault-tolerant, and built to last.
+I work across frontend, backend, and orchestration layers to ship features people actually use — especially where LLMs, voice UX, and automation can reduce friction in day-to-day operations.
 
-Long-term goal: Design and build systems used by millions, intelligent, scalable, and built right from the inside out.
+---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sukrit-saha-b6117a242) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sukrit_04) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/SukritSaha11) 
+## What I’m Building Right Now
 
-# 💻 Tech Stack:
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+- **Agentic voice-control experience** for product workflows (11Labs-style conversational UX + action orchestration)
+- **Practical AI operator patterns** that go beyond demos: reliable execution loops, guardrails, and usable outputs
+- **Internal tooling that speeds up decisions**, not just another dashboard
+
+> Current focus: turning AI features into product outcomes teams can trust.
+
+---
+
+## How I Build (Execution Flow)
+
+1. **Find the highest-friction workflow** in the product/user journey
+2. **Prototype quickly** with full-stack + AI tooling
+3. **Add reliability layers** (fallbacks, validation, observability)
+4. **Ship, measure, and iterate** based on actual usage
+
+I care less about hype and more about: *Did this save time, improve quality, or unlock a new capability for users?*
+
+---
+
+## Selected Builds
+
+### 1) Voice Agent Control Concept *(In Progress)*
+- **Problem:** Product interactions are still too click-heavy for repetitive operations.
+- **Approach:** Natural-language voice interface connected to action handlers and backend workflows.
+- **Outcome target:** Faster task completion + better UX for high-frequency actions.
+- **Repo / Demo:** `[Add GitHub repo link]` · `[Add demo/video link]`
+
+### 2) AI Workflow Automation Experiment
+- **Problem:** Teams lose time in context-switching and manual follow-ups.
+- **Approach:** Agentic loop for intake → reasoning → action suggestion / execution.
+- **Outcome target:** Reduced manual steps and tighter execution cycles.
+- **Repo / Notes:** `[Add repo link]` · `[Add write-up link]`
+
+### 3) Full-Stack Product Feature Delivery
+- **Problem:** Need end-to-end ownership from UI to backend logic.
+- **Approach:** Build and ship across frontend systems, API contracts, data flow, and QA.
+- **Outcome target:** Faster releases with fewer handoff bottlenecks.
+- **Project reference:** `[Add project/case-study link]`
+
+---
+
+## Agentic Engineering Toolkit
+
+**Interface:** React, Next.js, TypeScript, Tailwind  
+**Backend:** Node.js, APIs, service integration, workflow logic  
+**AI Layer:** LLM integrations, prompt/system design, agent orchestration patterns  
+**Product Ops:** experimentation, iteration loops, outcome-oriented delivery
+
+I prefer capability-based systems over stack flexing — the goal is reliable, useful product behavior.
+
+---
+
+## Build Principles
+
+- **Execution > theory**: ship small, validate fast
+- **Reliability first**: graceful failure beats brittle magic
+- **Outcome-driven AI**: every AI feature should map to a business/user win
+- **Keep it practical**: if a workflow can’t be maintained, it’s not production-ready
+
+---
+
+## Current Direction
+
+I’m moving deeper into:
+- agentic product architecture
+- voice-first interaction design for real workflows
+- AI-assisted engineering systems that improve team velocity
+
+If you’re building in this space, I’m always open to exchanging ideas and implementation patterns.
+
+---
+
+## Let’s Connect
+
+- LinkedIn: `[Add LinkedIn URL]`
+- X / Twitter: `[Add X URL]`
+- Portfolio / Website: `[Add website URL]`
+- Email: `[Add preferred email]`
+
+---
+
+<!--
+Monthly refresh checklist:
+1) Update “What I’m Building Right Now”
+2) Replace at least one placeholder with live repo/demo
+3) Add one measurable outcome from shipped work
+4) Archive stale experiments
+5) Keep this readable on mobile (short bullets > long paragraphs)
+-->
